@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-01T12:43:27 IST" name="Suite" finished-at="2025-02-01T12:44:55 IST" duration-ms="88396">
+    <groups>
+    </groups>
+    <test started-at="2025-02-01T12:43:27 IST" name="Test" finished-at="2025-02-01T12:44:55 IST" duration-ms="88396">
+      <class name="tests.testRegisterPage">
+        <test-method is-config="true" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:tests.testRegisterPage@74287ea3]" started-at="2025-02-01T12:44:42 IST" name="launchBrowser" finished-at="2025-02-01T12:44:48 IST" duration-ms="5553" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.testRegisterPage.TC_001_RegisterPage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="TC_001_RegisterPage()[pri:0, instance:tests.testRegisterPage@74287ea3]" started-at="2025-02-01T12:44:48 IST" name="TC_001_RegisterPage" finished-at="2025-02-01T12:44:55 IST" duration-ms="6704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_RegisterPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.testRegisterPage@74287ea3]" started-at="2025-02-01T12:44:55 IST" name="closeBrowser" finished-at="2025-02-01T12:44:55 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.testRegisterPage -->
+      <class name="tests.testHomePage">
+        <test-method is-config="true" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:tests.testHomePage@4a07d605]" started-at="2025-02-01T12:44:21 IST" name="launchBrowser" finished-at="2025-02-01T12:44:26 IST" duration-ms="4987" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void tests.testHomePage.TC_003_Insurance_HomePage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="TC_003_Insurance_HomePage()[pri:0, instance:tests.testHomePage@4a07d605]" started-at="2025-02-01T12:44:26 IST" name="TC_003_Insurance_HomePage" finished-at="2025-02-01T12:44:41 IST" duration-ms="15869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_Insurance_HomePage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.testHomePage@4a07d605]" started-at="2025-02-01T12:44:41 IST" name="closeBrowser" finished-at="2025-02-01T12:44:42 IST" duration-ms="1024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.testHomePage -->
+      <class name="tests.testLoginPage">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:tests.testLoginPage@5038d0b5]" started-at="2025-02-01T12:43:25 IST" name="setupReport" finished-at="2025-02-01T12:43:27 IST" duration-ms="1316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:tests.testLoginPage@5038d0b5]" started-at="2025-02-01T12:43:27 IST" name="launchBrowser" finished-at="2025-02-01T12:43:36 IST" duration-ms="9410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void tests.testLoginPage.TC_002_Insurance_LoginPage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="TC_002_Insurance_LoginPage()[pri:0, instance:tests.testLoginPage@5038d0b5]" started-at="2025-02-01T12:43:36 IST" name="TC_002_Insurance_LoginPage" finished-at="2025-02-01T12:43:53 IST" duration-ms="17278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_Insurance_LoginPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.testLoginPage@5038d0b5]" started-at="2025-02-01T12:43:54 IST" name="closeBrowser" finished-at="2025-02-01T12:43:54 IST" duration-ms="914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="flushReportsAndOpen()[pri:0, instance:tests.testLoginPage@5038d0b5]" started-at="2025-02-01T12:44:55 IST" name="flushReportsAndOpen" finished-at="2025-02-01T12:45:02 IST" duration-ms="6675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReportsAndOpen -->
+      </class> <!-- tests.testLoginPage -->
+      <class name="tests.testRequestQoute">
+        <test-method is-config="true" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:tests.testRequestQoute@383dc82c]" started-at="2025-02-01T12:43:54 IST" name="launchBrowser" finished-at="2025-02-01T12:44:01 IST" duration-ms="7067" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.testRequestQoute.ValidateRequestQuotationPage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="ValidateRequestQuotationPage()[pri:0, instance:tests.testRequestQoute@383dc82c]" started-at="2025-02-01T12:44:01 IST" name="ValidateRequestQuotationPage" finished-at="2025-02-01T12:44:20 IST" duration-ms="18568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateRequestQuotationPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.testRequestQoute@383dc82c]" started-at="2025-02-01T12:44:20 IST" name="closeBrowser" finished-at="2025-02-01T12:44:21 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.testRequestQoute -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
